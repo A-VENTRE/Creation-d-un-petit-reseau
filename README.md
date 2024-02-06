@@ -1,3 +1,3 @@
-# Cr-ation-d-un-petit-r-seau-
-Création basique d'un petit réseau utilisant des switches, des routeurs, des serveur dédier... 
-gfd
+# Creation-d-un-petit-reseau
+Création basique d'un petit réseau utilisant des switches, des routeurs, des serveurs dédiés...
+Ce TP a été réalisé pendant une période de formation.
