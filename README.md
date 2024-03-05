@@ -23,3 +23,21 @@ Exemple:
 - Accéder à l'interface de configuration du switch.
 - Configurer les VLANs.
 - Assigner les ports aux VLANs appropriés.
+3. Configuration des Routeurs
+Expliquer comment configurer les routeurs pour la connectivité Internet et inter-VLAN.
+Exemple:
+- Configurer les interfaces du routeur avec les adresses IP.
+- Définir les routes par défaut.
+- Activer le routage entre les VLANs.
+4. Mise en Place des Serveurs Dédiés
+Présenter la configuration des serveurs dédiés pour des services spécifiques.
+Exemple:
+- Installation du système d'exploitation.
+- Configuration du serveur web (Apache, Nginx).
+- Mise en place d'un serveur de fichiers.
+
+Tests et Validation
+Décrire les méthodes de test utilisées pour valider la configuration du réseau, comme le ping entre les dispositifs, la connexion aux services du serveur, etc.
+
+Conclusion
+Résumer les accomplissements et les leçons apprises lors de la mise en place de ce réseau informatique basique. Mentionner les défis rencontrés et comment ils ont été surmontés.
