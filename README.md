@@ -13,7 +13,13 @@ Switches Ethernet
 Routeurs
 Serveurs (physiques ou virtuels)
 Câbles de réseau
-Logiciels de simulation réseau (par exemple, Cisco Packet Tracer, GNS3)
+Logiciels de simulation réseau Cisco Packet Tracer
 Configuration du Réseau
 1. Schéma du Réseau
 Inclure un schéma illustrant la configuration du réseau, y compris les dispositifs réseaux, les connexions et les adresses IP assignées.
+2. Configuration des Switches
+Détaillez les étapes pour configurer les switches, y compris la création de VLANs si nécessaire.
+Exemple:
+- Accéder à l'interface de configuration du switch.
+- Configurer les VLANs.
+- Assigner les ports aux VLANs appropriés.
